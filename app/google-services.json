@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825016173723",
+    "firebase_url": "https://calllog-7ff37.firebaseio.com",
+    "project_id": "calllog-7ff37",
+    "storage_bucket": "calllog-7ff37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825016173723:android:74429b8c0272efbc",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.a55_calllog_alejandragrande"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825016173723-a0ihq0hot7h4kcs6djp6vn48b2589ne7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLA3sqAO_c-5LM2p8Y7kkhYiVjo0rhkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825016173723-a0ihq0hot7h4kcs6djp6vn48b2589ne7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
